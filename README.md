@@ -12,7 +12,7 @@ Se implementó autenticación y autorización en Backend:
 
 Se usó JsonWebTokens
 
-<img align="center" src="https://github.com/GregHowe/Library-Backend-UnitTest/blob/master/LibraryBackend/Images/JsonWebTokens.JPG" height="300" />
+<img align="center" src="https://github.com/GregHowe/Library-Backend-UnitTest/blob/master/LibraryBackend/Images/JsonWebTokens.JPG" height="400" />
    
 
 
