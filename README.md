@@ -5,7 +5,6 @@
 Se implementó autenticación y autorización en Backend:
 
 
-
 <img align="center" src="https://github.com/GregHowe/Library-Backend-UnitTest/blob/master/LibraryBackend/Images/Credentials.png" height="300" />            
 
 Se requiere el token generado para las acciones configuradas
@@ -18,7 +17,8 @@ Se usó JsonWebTokens para generar el Token
    
 
 
-## UnitTesting: Se uso Moq nuget Package para realizar las pruebas
+## UnitTesting: 
+### Se usó Moq nuget Package para realizar las pruebas
 
 ### Pruebas desarrolladas
 
