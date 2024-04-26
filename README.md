@@ -7,14 +7,15 @@ Se implementó autenticación y autorización en Backend:
 
 <img align="center" src="https://github.com/GregHowe/Library-Backend-UnitTest/blob/master/LibraryBackend/Images/Credentials.png" height="300" />            
 
-Se requiere el token generado para las acciones configuradas
-
-<img align="center" src="https://github.com/GregHowe/Library-Backend-UnitTest/blob/master/LibraryBackend/Images/Permission-JsonWebTokens.JPG?raw=true" height="500" />              
-
 Se usó JsonWebTokens para generar el Token
 
 <img align="center" src="https://github.com/GregHowe/Library-Backend-UnitTest/blob/master/LibraryBackend/Images/JsonWebTokens.JPG" height="400" />
    
+
+Se requiere el token generado para las acciones configuradas
+
+<img align="center" src="https://github.com/GregHowe/Library-Backend-UnitTest/blob/master/LibraryBackend/Images/Permission-JsonWebTokens.JPG?raw=true" height="500" />              
+
 #### Se desacopló los objetos, entidades con interfaces, injeccion de dependencias, servicios. etc.
 
 <img align="center" src="https://github.com/GregHowe/Library-Backend-UnitTest/blob/master/LibraryBackend/Images/Architecture.JPG" height="400" />
