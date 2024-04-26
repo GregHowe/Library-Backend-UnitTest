@@ -2,7 +2,7 @@
 
 ### Ver Video Resumen:
 
-[![Watch the video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgHAHff9apu1ZuaDfziL_os6AvslE1rtEkvzCW_ipJ2kuUtgObKo55zbBy7O8I34xKf8&usqp=CAU)](https://youtu.be/cyxVnyldStY)
+  [![Watch the video](https://www.shutterstock.com/image-vector/player-background-red-play-vector-260nw-374348860.jpg)](https://youtu.be/cyxVnyldStY)
 
 ## Backend
 Se implementó autenticación y autorización en Backend:
