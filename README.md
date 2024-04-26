@@ -15,6 +15,9 @@ Se usó JsonWebTokens para generar el Token
 
 <img align="center" src="https://github.com/GregHowe/Library-Backend-UnitTest/blob/master/LibraryBackend/Images/JsonWebTokens.JPG" height="400" />
    
+## Se desacopló los objetos, entidades con interfaces, injeccion de dependencias, servicios. etc.
+
+<img align="center" src="https://github.com/GregHowe/Library-Backend-UnitTest/blob/master/LibraryBackend/Images/Architecture.JPG" height="400" />
 
 
 ## UnitTesting: 
